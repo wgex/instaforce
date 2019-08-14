@@ -21,5 +21,5 @@ pip3 install requests bs4 colorama future
 basit kullanım için:
 
 ` ` `
-sudo python3 instaforce.py <kul.adı> <şifre>
+sudo python3 instaforce.py <kul.adı> <wordlist yolu>
 ` ` `
