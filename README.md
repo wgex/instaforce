@@ -23,3 +23,14 @@ basit kullanım için:
 ` ` `
 sudo python3 instaforce.py <kul.adı> <wordlist yolu>
 ` ` `
+
+
+
+
+
+
+
+
+
+
+by fikret
