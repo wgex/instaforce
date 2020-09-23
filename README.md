@@ -7,7 +7,7 @@ türkçe bir instagram bruteforce programı.
 gereksinimleri yüklemek için:
 
 ` ` `
-pip3 install install.txt
+pip3 install -r install.txt
 ` ` `
 
 gereksinimleri elle yüklemek için:
